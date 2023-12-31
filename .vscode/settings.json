@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 15,
+    "editor.minimap.autohide": false,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "workbench.panel.defaultLocation": "right"
+}

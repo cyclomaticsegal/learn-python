@@ -20,4 +20,9 @@
 is Simon"""
 
 #multi line strings
+"""
+multi = "comments"
+"""
 
+#error as mutli assign is inside triple quote string which works like comments for multiple lines
+#print(multi)

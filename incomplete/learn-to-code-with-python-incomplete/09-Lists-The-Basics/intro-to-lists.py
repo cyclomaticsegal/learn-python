@@ -15,3 +15,7 @@ print(quarterly_revenues)
 
 stock_prices = [34.3, 89.25]
 print(len(stock_prices))
+
+
+def nested_extraction(lstOflists: 'list[list[any]]', idx: int) -> any:
+    return lstOflists[idx][idx]
